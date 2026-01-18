@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello
 
-<!--
-**dinde451/dinde451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"I'm dinde451, a developer who specializes in creating unstable projects—mostly useless.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"My creations are unpredictable, and might just make you cry… from awe, confusion, or sheer disbelief."
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,nodejs,c&perline=8)](https://skillicons.dev)
+
+## Top Projects
+
+[![**BROWNBEAR**](https://github-readme-stats.vercel.app/api/pin/?username=dinde451&repo=BROWNBEAR&theme=dark)](https://github.com/dinde451/BROWNBEAR)
+[![**pv36**](https://github-readme-stats.vercel.app/api/pin/?username=dinde451&repo=pv36&theme=dark)](https://github.com/dinde451/pv36)
