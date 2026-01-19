@@ -9,6 +9,7 @@
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,nodejs,c&perline=8)](https://skillicons.dev)
+[![GoboScript](https://aspizu.github.io/goboscript/assets/goboscript.svg)](https://aspizu.github.io/goboscript/)
 
 ## Top Projects
 
