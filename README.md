@@ -1,10 +1,4 @@
-## Hello
-
-"I'm dinde451, a developer who specializes in creating unstable projects—mostly useless.
-
-## About Me
-
-"My creations are unpredictable, and might just make you cry… from awe, confusion, or sheer disbelief."
+My creations are unpredictable, and might just make you cry… from awe, confusion, or sheer disbelief.
 
 ## Skills & Technologies
 
